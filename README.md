@@ -133,7 +133,6 @@ Error Handling System
 6. Embedded Systems Programming
 7. Internet of Things
 
-
 ### My Future Improvements for this project
 1. Add local environmental sensors such as DHT11 or DHT22
 2. Add OLED display support
